@@ -19,3 +19,11 @@
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+
+.botaoVoltar{
+    margin: 50px 50px 50px 50px;
+}
+
+.container, .container-md, .container-sm {
+    max-width: 1790px;
+}
