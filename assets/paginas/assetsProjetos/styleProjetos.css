@@ -1,3 +1,7 @@
+.mt-5{
+    margin-left: 50px;
+}
+
 .loader-container {
     display: flex;
     flex-direction: column;
