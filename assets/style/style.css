@@ -94,6 +94,10 @@ h1 {
     text-align: left;
 }
 
+.configSection{
+    margin-top: 50px;
+}
+
 @media screen and (max-width: 549px) {
 
     h3 {
